@@ -1,1 +1,1 @@
-# [Recruit](#Recruit.md)
+# [Recruit로 이동](#Recruit.md)
